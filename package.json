@@ -1,0 +1,21 @@
+{
+  "name": "tstl_luajit_ffi",
+  "version": "1.0.0",
+  "description": "The LuaJIT ffi declaration for TSTL.",
+  "main": "luajit-ffi.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tstl",
+    "luajit",
+    "ffi"
+  ],
+  "author": "jordan4ibanez",
+  "license": "MIT",
+  "dependencies": {
+    "lua-types": "^2.13.1",
+    "typescript": "^5.7.2",
+    "typescript-to-lua": "^1.28.1"
+  }
+}
