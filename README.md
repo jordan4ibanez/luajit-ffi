@@ -1,2 +1,2 @@
-# tstl_luajit_ffi
+# luajit-ffi
  LuaJIT FFI declaration for TSTL.
