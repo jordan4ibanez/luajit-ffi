@@ -1,6 +1,6 @@
 {
   "name": "luajit-ffi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The LuaJIT ffi declaration for TSTL.",
   "main": "luajit-ffi.d.ts",
   "scripts": {
