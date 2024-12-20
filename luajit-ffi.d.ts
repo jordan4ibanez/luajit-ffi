@@ -53,7 +53,6 @@ declare module "ffi" {
   }
 }
 
-
 /** 
  * This one is a special library in LuaJIT I brought in just for you to have fun. :)
  * @noResolution
@@ -75,4 +74,5 @@ declare module "jit" {
     function start(...input: [string]): void;
   }
   // util isn't really documented so I can't add it.
+  // If you can help with this, I'd appreciate it. :)
 }
